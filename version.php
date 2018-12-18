@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2016052300;
-$plugin->release = '3.1.0.0 (Build: 20160720)';
+$plugin->version = 2018110101;
+$plugin->release = '3.5.0 Beta';
 $plugin->component = 'block_elisdashboard';
-$plugin->maturity = MATURITY_STABLE;
+$plugin->maturity = MATURITY_BETA;
 $plugin->dependencies = array(
     'local_elisprogram' => 2016052300
 );
